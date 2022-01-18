@@ -1,0 +1,7 @@
+com\imdbrating\imdb\ImdbApplication.class
+com\imdbrating\imdb\models\DateDTO.class
+com\imdbrating\imdb\models\MovieDTO.class
+com\imdbrating\imdb\models\ActorDTO.class
+com\imdbrating\imdb\controllers\MovieController.class
+com\imdbrating\imdb\models\ApiResponse.class
+com\imdbrating\imdb\enums\Language.class
